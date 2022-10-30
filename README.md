@@ -17,7 +17,8 @@ akhir harus diidentifikasikan oleh spasi
 
 ## Penggunaan separator
 
-![gambar2](foto/ss1.png)
+![ss1](https://user-images.githubusercontent.com/115516474/198872062-c1d91dd5-d8b5-41d5-ac6f-79f0f86d941a.png)
+
 
 ## String Format
 
@@ -25,51 +26,62 @@ Format string kemungkinan memasukan item
 kedalam string dari pada menggabungkan
 string menggunakan (,) / string contatenation
 
-![gambar3](foto/ss2.png)
+![ss2](https://user-images.githubusercontent.com/115516474/198872080-714d5394-672c-4aef-8757-e926493f3f17.png)
+
 
 ## String Format 2
 
-![gambar4](foto/ss3.png)
+![ss3](https://user-images.githubusercontent.com/115516474/198872111-8786a6df-6281-4c23-a864-58173cdf566f.png)
+
 
 ## Hasil Latihan 1
 
-![gambar5](foto/ss4.png)
+![ss4](https://user-images.githubusercontent.com/115516474/198872138-5b923b4b-a819-4024-9aa6-fa1af2d299b9.png)
 
-![gambar6](foto/ss5.png)
+
+![ss5](https://user-images.githubusercontent.com/115516474/198872147-31ccae7b-090a-4aa2-a53e-22bdcee0bb5d.png)
+
 
 ## Latihan 2
  Input Variable
 
-![gambar7](foto/ss6.png)
+![ss6](https://user-images.githubusercontent.com/115516474/198872194-c768f50a-82a2-4811-b917-a7c5876eaf8e.png)
+
 
 ## Mencetak Variable
 
 Mencetak variable ketika sudah diinput 
 
-![gambar8](foto/ss7.png)
+![ss7](https://user-images.githubusercontent.com/115516474/198872212-330998c3-41ce-445a-999b-e2c11ea6ab7b.png)
+
 
 ## Penggabungan Variable
 
 Penggabungan antara dua variable
 
-![gambar9](foto/ss8.png)
+![ss8](https://user-images.githubusercontent.com/115516474/198872230-494840d9-9e45-4666-bc7d-29b80165ac27.png)
+
 
 ## Input dan konversi nilai variable 2
 
-![gambar10](foto/ss9.png)
+![ss9](https://user-images.githubusercontent.com/115516474/198872264-b850171e-7fca-49f4-b35d-a1d9885944ca.png)
+
 
 ### Hasil latihan 2
 
-![gambar11](foto/ss10.png)
+![ss10](https://user-images.githubusercontent.com/115516474/198872273-5205511b-2b5b-4e28-a427-9e3a0fce4eec.png)
+
 
 ### Latihan 3
 
 Menggunakan string format untuk membuat
 belah ketupat
 
-![gambar12](foto/ss11.png)
+![ss11](https://user-images.githubusercontent.com/115516474/198872285-646bbbdf-90ca-44b6-869f-8ad40fcdb075.png)
 
-![gambar13](foto/ss12.png)
+
+![ss12](https://user-images.githubusercontent.com/115516474/198872298-49f68f76-29e0-402b-a5ec-6308dbcc26cb.png)
+
 
 ### Latihan 4
 
@@ -77,7 +89,8 @@ belah ketupat
 
 ## Flowchart untuk mencari lingkaran
 
-![gambar14](foto/ss13.png)
+![ss13](https://user-images.githubusercontent.com/115516474/198872313-99478fd9-dc49-4f25-af30-7b19aa97999b.png)
+
 
 ## Membuat program untuk menghitung luas lingkaran
 
@@ -99,8 +112,11 @@ L = phi * (r * r)
 
 ## Mencetak hasil 
 
-![gambar15](foto/ss16.png)
+![ss16](https://user-images.githubusercontent.com/115516474/198872428-915f3d9f-dde4-4e80-88d9-046183e4f16e.png)
+
+
 
 ## Hasil luas lingkaran
 
-![gambar16](foto/ss14.png)
+![ss14](https://user-images.githubusercontent.com/115516474/198872394-5dcfa1d8-04ee-48d7-ae68-07110b4ca089.png)
+
