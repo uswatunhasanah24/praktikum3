@@ -12,7 +12,8 @@
 dalam fungsi cetak digunakan untuk menambahkan string. diakhir outputnya (end=") melewati melewati spasi ke parameter menunjukan bahwa karakter
 akhir harus diidentifikasikan oleh spasi
 
-![gambar1](foto/ss15.png)
+![ss15](https://user-images.githubusercontent.com/115516474/198871950-ce56985c-837b-4d0d-9d3c-42b85cad6dd9.png)
+
 
 ## Penggunaan separator
 
