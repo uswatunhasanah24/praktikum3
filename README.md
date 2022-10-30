@@ -94,21 +94,23 @@ belah ketupat
 
 ## Membuat program untuk menghitung luas lingkaran
 
-Rumuas luas lingkaran yaitu : Phi r r 
+Rumuas luas lingkaran yaitu : Pi*(r*r)  
 
 ## Mengimput suatu nilai jari-jari
 
 untuk mencari luas lingkaran 
-r = int(input('masukan jari-jari lingkaran')
+
+r=float(input("masukan jari-jari :"))
 
 ## Menghitung suatu nilai jari-jari
 
 untuk mencari luas lingkaran
-r = int(input('masukan jari-jari lingkaran: '))
+
+r = float(input('masukan jari-jari lingkaran: '))
 
 ## Mendeklarasikan nilai Phi
 
-L = phi * (r * r)
+L = pi * (r * r)
 
 ## Mencetak hasil 
 
